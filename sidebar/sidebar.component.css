@@ -1,0 +1,28 @@
+
+aside {
+  height: 118vh;
+  position: sticky;
+  top: -159px;
+  border: 2px solid black;
+  border-radius: 5px;
+  margin-left: -116px;
+}
+  nav ul {
+    list-style: none; 
+    padding: 0; 
+  }
+  
+  nav li {
+    margin-bottom: 10px; 
+  }
+  
+  nav a {
+    text-decoration: none; 
+    color: black;
+    margin-top: 71%;
+  }
+  
+  .center-title {
+    text-align: center;
+  } 
+  

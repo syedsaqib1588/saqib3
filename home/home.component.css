@@ -1,0 +1,11 @@
+
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+  max-width: 1140px;
+  margin-left: 13%;
+}
+
+.center-title {
+  text-align: center;
+  margin-top: -44%;
+  margin-left: 13%;
+}

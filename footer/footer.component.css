@@ -1,0 +1,13 @@
+
+.custom-footer-container {
+    margin: 7px -125px auto;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 18px;
+}
+.footer-text {
+    margin: 0;
+    color: #000;
+    font-size: 16px;
+    margin-left: 375px;
+}

@@ -1,0 +1,11 @@
+
+.main-title-section {
+    background-color: white;
+    text-align: center;
+    width: 110%;
+    padding: 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+    position: absolute;
+    margin-top: -757px;
+}
